@@ -1,0 +1,392 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthanhly3.webtudong8giay.com%252Fthanh-ly-phong-net-tai-ha-noi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthanhly3.webtudong8giay.com%252Fthanh-ly-phong-net-tai-ninh-binh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fthanhly3.webtudong8giay.com%252Fthanh-ly-phong-net-tai-quy-nhon%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://thanhly3.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/category/thanh-ly/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\category\thanh-ly\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/category/thanh-ly/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\category\thanh-ly\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/danh-gia/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\danh-gia\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/phuong-cham/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\phuong-cham\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/quy-trinh/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\quy-trinh\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-ha-noi/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-ha-noi\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-ha-noi/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-ha-noi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-ninh-binh/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-ninh-binh\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-ninh-binh/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-ninh-binh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-quy-nhon/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-quy-nhon\index.htm
+Content Type: text/html
+
+Uri: https://thanhly3.webtudong8giay.com/thanh-ly-phong-net-tai-quy-nhon/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\thanh-ly-phong-net-tai-quy-nhon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/trang-mau/feed/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/themes/web2s-vn/style.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\themes\web2s-vn\style.css
+Content Type: text/css
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/banner-header01.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\banner-header01.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/bg-footer.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/bg2.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-cuongphatcomputer-180x180.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-cuongphatcomputer-180x180.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-cuongphatcomputer-192x192.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-cuongphatcomputer-192x192.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/cropped-cuongphatcomputer-32x32.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\cropped-cuongphatcomputer-32x32.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/cuongphatcomputer-150x150.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\cuongphatcomputer-150x150.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/cuongphatcomputer.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\cuongphatcomputer.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/img6-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\img6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/img67-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\img67-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/line-1.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\line-1.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/line.png
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\line.png
+Content Type: image/png
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/liststyle-1.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\liststyle-1.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/may-tinh-phong-net.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\may-tinh-phong-net.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/mo-hinh-cyber-game-mini-giai-phap-tot-nhat-danh-cho-cac-chu-dau-tu-co-nguon-von-it-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\mo-hinh-cyber-game-mini-giai-phap-tot-nhat-danh-cho-cac-chu-dau-tu-co-nguon-von-it-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/thanh-ly-phong-net-binh-duong-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\thanh-ly-phong-net-binh-duong-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/thanh-ly-phong-net-binh-phuoc-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\thanh-ly-phong-net-binh-phuoc-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/thanh-ly-phong-net-dong-nai-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\thanh-ly-phong-net-dong-nai-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/thanh-ly-phong-net-tay-ninh-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\thanh-ly-phong-net-tay-ninh-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-content/uploads/2020/05/thanh-ly-phong-net-vung-tau-150x150.jpg
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-content\uploads\2020\05\thanh-ly-phong-net-vung-tau-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.0.2
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://thanhly3.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fdanh-gia%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fdanh-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fphuong-cham%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fphuong-cham%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fquy-trinh%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fquy-trinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-ha-noi%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-ha-noi%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-ninh-binh%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-ninh-binh%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-quy-nhon%2F
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fthanhly3.webtudong8giay.com%2Fthanh-ly-phong-net-tai-quy-nhon%2F&format=xml
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/289
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\289
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/291
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\291
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/pages/293
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\pages\293
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/posts/387
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\posts\387
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/posts/392
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\posts\392
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/wp-json/wp/v2/posts/396
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\wp-json\wp\v2\posts\396
+Content Type: application/json
+
+Uri: https://thanhly3.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\thanhly3.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+

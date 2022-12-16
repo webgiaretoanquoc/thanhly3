@@ -1,0 +1,342 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.13.1
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.slider-section{
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+.thu-mua-section .box-text.text-center {
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.ly-do-section .col.large-12{padding-bottom:0}
+.thu-mua2-section .col{padding-bottom:0}
+.ly-do-section .icon-box h3{color: #ff6a00;text-transform:uppercase}
+.thu-mua-section .box-image{border-top-left-radius: 5px;
+	border-top-right-radius: 5px;}
+.thu-mua-section .col-inner:hover{
+	border : 1px solid #167cc4;
+	border-radius : 5px;
+}
+.thu-mua-section .col-inner:hover h4{
+	color : #167cc4;
+}
+.loi-keu-goi-section .col, .thu-mua-section .col{
+	padding-bottom: 0px;
+}
+
+.loi-keu-goi-section p{margin-bottom:0}
+.loi-keu-goi-section .icon-box img{
+	padding-top:0}
+.loi-keu-goi-section .icon-box-img{
+	margin: 0 auto 3px;}
+
+
+
+.gioi-thieu-section h2 {    color: #000000;
+	text-transform: none;
+}
+
+
+.flickity-button .flickity-button-icon {
+	background: #00000059;
+	border-radius: 5px !important;
+}
+.thu-mua2-section h4{    color: #0165a9;text-transform:uppercase}
+.thu-mua2-section .box .box-text{padding:15px}
+.thanh-ly-section {
+	padding-bottom : 0px !important;
+}
+.thanh-ly-title:after {
+	content: "";
+	display: table;
+	clear: both;
+	background: url(../../uploads/2020/05/line.png);
+	width: 100%;
+	height: 20px;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: bottom;
+	padding-top: 0;
+}
+.thanh-ly-section .box-text.text-center {
+	border: 1px solid #e0e0e0;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.thanh-ly-section .box-image img{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.thanh-ly-section .is-divider{
+	display:none;
+}
+.thanh-ly-section .post-title.is-large {margin-bottom: 7px;
+	color: #204af5;
+	text-decoration: none;
+	font-size: 20px;
+}
+.thanh-ly-section .post-title.is-large:hover{
+	color : #167cc4;
+}
+.thanh-ly-section .from_the_blog_excerpt {
+	font-size: 15px;
+	color: #444;
+}
+
+
+.footer-section .col{
+	padding-bottom : 0px;
+}
+.footer-section li{
+	list-style: disc !important;
+}.nav-spacing-xlarge>li {
+	margin: 0 21px;
+}
+.footer-section h3{
+	color : #fff;
+}
+.footer-section p,.footer-section li{
+	color: #c0c0c0;
+}.section-title-center span:after {
+	content: "";
+	display: table;
+	clear: both;
+	background: url(../../uploads/2020/05/line-1.png);
+	width: 100%;
+	height: 20px;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-position-y: bottom;
+	padding-top: 0;
+}.section-title b{background:none}
+.gioi-thieu-section .col{padding-bottom:0}.section-title span {
+	text-transform: none;
+	color: black;
+}.post-item .box-image:hover::before{
+	-webkit-animation:shine .75s;
+	animation:shine .75s}
+@-webkit-keyframes shine{
+	100%{left:125%}
+}
+@keyframes shine{
+	100%{left:125%}
+}
+.post-item .box-image::before{
+	position:absolute;
+	top:0;
+	left:-75%;
+	z-index:2;
+	display:block;
+	content:'';
+	width:50%;
+	height:100%;
+	background:-webkit-linear-gradient(left,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+	background:linear-gradient(to right,rgba(255,255,255,0) 0,rgba(255,255,255,.3) 100%);
+	-webkit-transform:skewX(-25deg);transform:skewX(-25deg)
+}.footer-secondary {
+	padding: 0;
+}
+.list-post2 .post-item .post-title{color:#2b2a54}
+.tin-tuc-section .col, .quy-trinh-section .col, .gioi-thieu-2 .col{padding-bottom:0}.section-title-container {
+	margin-bottom: 0;
+}
+a.back-to-top{background:#f9a618 !important; color:white !important; border:none !important}
+.lien-he-section .col{padding-bottom:0}.lien-he-section img {
+	border-radius: 7px;
+}.form-lien-he .row-info .left {
+	width: 50%;
+	padding-right: 7px;
+	float: left;
+	display: inline-block;
+}.form-lien-he .row-info .right {
+	width: 50%;
+	padding-left: 7px;
+	float: left;
+	display: inline-block;
+}.form-lien-he input {
+	font-size: 15px;
+	border-radius: 4px;
+	box-shadow: none;
+}.page-left-sidebar .large-3 {
+	padding-right: 15px;
+	border-right: none;
+}span.widget-title {
+	font-size: 17px;
+	letter-spacing: 0;
+	font-weight: bold;
+	background: #167cc4;
+	color: #ffffff;
+	width: 100%;
+	display: block;
+	padding: 10px 10px;
+	border-bottom: 2px solid orange;
+}.widget .is-divider{display:none}.widget_products ul, .widget_categories ul, .flatsome_recent_posts ul {
+	border: 1px solid #ececec;
+}.widget_categories ul li {
+	text-transform: uppercase;
+	padding-left: 23px;
+	padding-right: 8px;
+	background: url(../../uploads/2020/05/liststyle-1.jpg);
+	background-repeat: no-repeat;
+	background-position-y: center;
+	background-position-x: 10px;
+}.recent-blog-posts {
+	padding: 10px;
+}.recent-blog-posts a {
+	font-size: 15px;
+}
+.thanh-ly-section .nut-xem-them{display:none}
+.thanh-ly-section .post-item{padding-bottom:10px}
+.tin-tuc-section .post-item .nut-xem-them{display:none}
+.tin-tuc-section .post-item .from_the_blog_excerpt {height: 66px;
+	overflow: hidden;}
+
+.page-left-sidebar .page-inner ul, .page-left-sidebar .page-inner ol{margin-left:20px}h1.entry-title.mb {
+	margin-bottom: 15px;
+	font-size: 19px;
+	letter-spacing: 0;
+}#breadcrumbs {
+	margin-bottom: 8px;
+	letter-spacing: 0;
+	font-size: 14px;
+}.blog-archive .large-3 {
+	padding-right: 0px;
+}.blog-archive .archive-page-header .large-12 {
+	padding-bottom: 10px;
+	text-align: left;
+}#breadcrumbs {
+	margin-bottom: 8px;
+	letter-spacing: 0;
+	font-size: 14px;
+}.blog-single .entry-header-text .entry-meta {
+	text-transform: none;
+	font-size: 14px;
+	letter-spacing: 0;
+}.xem-them .tieu-de-xem-them {
+	font-weight: 700;
+	display: block;
+	margin-bottom: 10px;
+	font-size: 18px;
+	color: black;
+}.xem-them ul li a {
+	font-weight: bold;
+	font-size: 16px;
+	color: #00447d;
+}.xem-them ul li a:hover {
+	text-decoration: underline;
+}.danh-muc span.title, .the-tim-kiem span.title {
+	font-size: 15px;
+	border-radius: 4px;
+	background: #0080da;
+	padding: 4px 10px;
+	color: white;
+	margin-right: 5px;
+}.danh-muc {
+	margin-bottom: 15px;
+}.danh-muc a, .the-tim-kiem a {
+	line-height: 32px;
+	border-radius: 4px;
+	margin-bottom: 10px; font-size:15px;
+	padding: 4px 10px;
+	background: #dedede;
+	color: #464646;
+}.danh-muc a:hover, .the-tim-kiem a:hover {
+	background: #10affb;
+	color: white;
+}.blog-single .entry-title {
+	font-size: 24px;
+}.blog-single .blog-share {
+	text-align: left;
+}.is-divider{display:None}.bai-viet-lien-quan h3 {
+	font-size: 18px;
+	color: black;
+}.bai-viet-lien-quan ul {
+	margin-bottom: 0;
+	display: inline-block;
+	width: 100%;
+}.bai-viet-lien-quan ul li {
+	list-style: none;
+	width: 25%;
+	color: graytext;
+	float: left;
+	padding-left: 4px;
+	padding-right: 5px;
+}.bai-viet-lien-quan ul li .box-image img {
+	height: 130px;
+	border-radius: 4px;
+	object-fit: cover;
+	object-position: center;
+}.bai-viet-lien-quan h4 {
+	font-size: 16px;
+	color: black;
+	line-height: 19px;
+	padding-top: 7px;
+	height: 64px;
+	overflow: hidden;
+}.bai-viet-lien-quan {
+	margin-top: 15px;
+}.blog-single .large-3 {
+	padding-left: 0;
+}.entry-content {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.blog-archive .large-9 .badge{display:none}.blog-archive .post-item .post-title {
+	margin: 0;
+	margin-bottom: 10px;
+	font-size: 19px;
+}.blog-archive .post-item .nut-xem-them {
+	margin: 0;
+	text-transform: none;
+	font-size: 13px;
+	background: #eaeaea;
+	padding: 0 14px;
+	border-radius: 5px;
+	min-height: 20px;
+	height: 30px;
+	line-height: 9px;
+	margin-top: 10px;font-weight:normal
+}
+.blog-archive .post-item{padding-bottom:10px}
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+	.loi-keu-goi-section .col-inner .medium-6{
+		flex-basis: 50%;
+		width: 50%;
+	}
+	.loi-keu-goi-section h2{text-align:center}
+	.quy-trinh-section .small-6{
+		max-width: 100%;
+		flex-basis: 100%;
+	}
+	.ly-do-section .small-6 {
+		max-width: 100%;
+		flex-basis: 100%;
+	}
+	.footer-section .small-6 {
+		max-width: 100%;
+		flex-basis: 100%;
+	}
+	.off-canvas:not(.off-canvas-center) .nav-vertical li>a {
+		padding-left: 20px;
+		padding-top: 12px;
+		padding-bottom: 12px;
+		font-size: 16px;
+		text-transform: none;
+		color: #4a4a4a;
+	}
+	.ly-do-section .medium-3{flex-basis:50%; max-width:50%}
+	.ly-do-section .medium-3 .col-inner{padding:5px}
+	.ly-do-section .icon-box .icon-box-text{font-size:14px}
+	.loi-keu-goi-section .large-4{flex-basis:33.33%; max-width:33.33%}.form-lien-he .row-info .right,.form-lien-he .row-info .left{width:100%; padding:0}
+	.form-lien-he input[type='submit']{width:100%; margin:0}.lien-he-section .col{padding-bottom:10px}.page-left-sidebar .large-3{display:None}.blog-archive .large-3{padding-right:15px}.bai-viet-lien-quan ul li{width:50%}.bai-viet-lien-quan ul li .box-image img{height:100px}.blog-single .large-3{padding-left:15px}
+
+}
